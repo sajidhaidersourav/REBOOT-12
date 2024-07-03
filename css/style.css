@@ -1,0 +1,72 @@
+/* logo and menu strta */
+.menu{
+    padding: 20px 0px;
+}
+.ul li{
+    margin-left: 40px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+/* logo and menu end */
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 30px 0px 30px;
+}
+/* color  strat */
+.color_name p{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 11.5px 0px;
+    letter-spacing: 10px;
+    font-weight: 600;
+    color: aliceblue;
+    margin: 5px;
+}
+.box1{
+    border: 1px solid;
+    min-height: 52px;
+}
+.box1 p{
+    color: white;
+    margin: 0%;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+/* color  end */
+
+/* table start */
+/* table end */
+
+/* form control start */
+label{
+    margin-top: 20px;
+}
+/* form control end */
+
+/* form validation strat  */
+/* form validation end */
+
+/* accordion strat */
+/* accordion end */
+
+/* Breadcrumb start */
+/* Breadcrumb end */
+
+/* card strat */
+.mt{
+    margin-top: 50px;
+}
+/* card end */
+
+/* slider strat */
+/* slider end */
+
+/* nav & tab strat */
+/* nav & tab end */
+
+/* offcanvas strat */
+.btn-mt{
+    margin-top: 10px;
+}
+/* offcanvas strat */
